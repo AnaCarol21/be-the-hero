@@ -10,7 +10,7 @@ Aplicação para contribuir com ONGS necessitadas
 ## Como utilizar?
 Clonar o projeto
 ```
-$ git clone URL
+$ git clone https://github.com/AnaCarol21/be-the-hero.git
 ```
 Instalar as dependências
 ```
