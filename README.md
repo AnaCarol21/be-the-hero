@@ -24,6 +24,7 @@ Página de novo caso
 - [NodeJS](https://nodejs.org/en/)
 - [ReactJS](https://pt-br.reactjs.org/) 
 - [React Native](https://reactnative.dev/) 
+- [SqLite](https://www.sqlite.org/index.html) 
 - [Expo](https://expo.io/) 
 
 ## Como utilizar?
